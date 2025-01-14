@@ -1,4 +1,6 @@
 ## Hello there, I hope you are having a good evening!
+My name is Gabriel Vega Osborne. I am a computer science student at ODU. I have had the opportuity to write projects in C++, Python, and JavaScript.
+I hope to learn a lot this semester, and even more in the semesters to come!
 
 <!--
 **ODU-GabrielVegaOsborne/ODU-GabrielVegaOsborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
